@@ -1,8 +1,10 @@
 if __name__ == "__main__":
    '''
-   This program will: (1) round the number, (2)calculate the square root and (3) calculate the absolute value of the number inputted.
+   This program will: (1) round the number, (2)calculate the square root and (3) calculate the absolute value of the number inputted. (4) Do the laundry. (5) walk the dog.
 
-   Do you want to add another operation? Just go to function_mathOperations.py and add a new function that takes in 1 parameter (the number).
+   I'm currently working on the last two features above ;) ;) ;).
+
+   Anyway... do you want to add another MATH operation? Just go to function_mathOperations.py and add a new function that takes in 1 parameter (the number).
 
    IF your function takes in more than one paramter, please follow the directions for the roundNumber function!!!
    '''
