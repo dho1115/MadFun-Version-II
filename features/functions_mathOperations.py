@@ -14,7 +14,7 @@ def roundNumber (num, decimalPlaces=0): #If your function takes in MORE than 1 p
             return round(num, decimalPlaces);
          except Exception:
             print(Exception);
-            return f"Sorry, I cannout round to {howManyPlaces} because it is not an inteter.";
+            return f"Sorry, I cannot round to {howManyPlaces} because it is not an integer.";
    except Exception:
       print(Exception)
       return "Sorry... an exception occured somewhere"
