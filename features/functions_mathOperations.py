@@ -1,5 +1,5 @@
 '''
-*** Add any new math functions inside THIS file!!! ***\n\n
+\t*** Add any new math functions inside THIS file!!! ***\n\n
 Also, I did NOT import math as a global variable because I do NOT want it to show up as one of the properties when I print(MathOperationsDictionary = features.functions_mathOperations.__dict__.items()) in main.py.\n
 Rather, I imported math inside the BODY of the squareRoot function.
 '''
