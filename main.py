@@ -21,3 +21,5 @@ if __name__ == "__main__":
          print(f"The {key} of {number} is {extractFunctions(dictionary)[key](number)}.");
    except Exception:
       print(f"Sorry... {number} must be a number!!!")
+
+   

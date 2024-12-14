@@ -22,6 +22,6 @@ def roundNumber (num, decimalPlaces=0): #If your function takes in MORE than 1 p
 
 absoluteValue = lambda num: abs(num);
 def squareRoot(num):
-   from math import sqrt;
+   from math import sqrt; #I scoped this to the function because I do not want this to show up as one of the properties when I run extractFunctions(dictionary).
    return sqrt(absoluteValue(round(num)));
 
