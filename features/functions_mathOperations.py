@@ -4,7 +4,7 @@ Also, I did NOT import math as a global variable because I do NOT want it to sho
 Rather, I imported math inside the BODY of the squareRoot function.
 '''
 
-def roundNumber (num, decimalPlaces=0):
+def roundNumber (num, decimalPlaces=0): #If your function takes in MORE than 1 parameter, follow this template.
    try:
       roundToZero = input(f"Is it okay if I round {num} to zero decimal places (y/n)? ");
       if roundToZero == 'n': #User wants to round to another number other than zero.
